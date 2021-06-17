@@ -1,0 +1,18 @@
+footer{
+    text-align: center;
+    color: #6d7754;
+    font-size: 14px;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+}
+nav ul li a{
+    font-size: 100px;
+    padding-right: 50px;
+    padding-left: 10px;
+    color: #183313;
+}
+nav ul li a:hover{
+  color: #face86;
+}
